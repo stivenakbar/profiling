@@ -12,7 +12,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Data Diri</title>
+<title>Data Diri mahasiswa</title>
 </head>
 <body>
 <ol>
